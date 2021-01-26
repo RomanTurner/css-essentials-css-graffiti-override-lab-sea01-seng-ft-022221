@@ -2,7 +2,7 @@
 #wall .tag-1{
   display: none;
 }
-body#wall div#tag-2{
+#wall #tag-2{
    display: none;
 }
 
